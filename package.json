@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "engines": {
+    "yarn": ">=1.17.3"
+  },
+  "name": "monorepo-example",
+  "workspaces": [
+    "application/*",
+    "packages/*"
+  ],
+  "scripts": {}
+}
