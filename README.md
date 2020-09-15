@@ -1,1 +1,1 @@
-# react--native-monorepo
+# react-native-monorepo
